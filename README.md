@@ -59,7 +59,7 @@ This is why I have included the `.` before most of the tweens, but I've not incl
 
 ---   
 
-**to**
+**to**   
 `.to(${1:element}, ${2:1}, {${3:vars}, ease: ${4:Power3.easeInOut}})`   
 
 ---   
