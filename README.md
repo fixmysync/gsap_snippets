@@ -7,7 +7,8 @@ The snippets are listed below in alphabetical order. The '`{$1}`' indicates the 
 
 Feel free to play with, alter, expand, or do what you want with these snippets. If you come up with a very useful snippet, or a mistake or simply something that I have missed - Please let me know (via [Twitter](https://twitter.com/mandymadethis), [GitHub](https://github.com/MandyMadeThis) or as a comment on the original [blog post](http://mandymadethis.com/sublime-text-gsap-snippets/)) so that I can improve these for everybody. Thanks!
 
-*note*: I use `TimelineMax` most of the time and I chain my tweens directly to the timeline. Example:   
+*note*: I use `TimelineMax` most of the time and I chain my tweens directly to the timeline.   
+Example:   
 
     var exampleTL = new TimelineMax()
         .staggerFrom(["h1, h2, button"], 0.5, {y:100, autoAlpha: 0, ease: Power3.easeOut }, 0.25)
@@ -16,12 +17,7 @@ Feel free to play with, alter, expand, or do what you want with these snippets. 
         .to(".element", 0.5, {opacity: 0.3 }, "-=0.5");
 
 
-This is why I have included the `.` before most of the tweens and not included a `;` at the end of them. Please feel free to adjust these and make them work for your own GSAP code style.    
-
-**tabTrigger**   
-`snippet with ${1:tab stops}`   
-
----   
+This is why I have included the `.` before most of the tweens, but I've not included a `;` at the end of them. Please feel free to adjust these and make them work for your own GSAP code style.       
 
 **Draggable**   
 `Draggable.create(${1:element}, {type: "${2:drag_type}", ${3:vars}});`      
