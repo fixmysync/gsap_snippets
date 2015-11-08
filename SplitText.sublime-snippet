@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+SplitText(${1:element}, {type:"${2:words,chars,lines}"});
+]]></content>
+    
+    <tabTrigger>SplitText</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

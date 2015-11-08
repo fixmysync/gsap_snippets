@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.stagger${1:To}(${2:element}, ${3:0.5}, {${4:vars}, ease: ${5:Power3.easeInOut}}, ${6:0.25})
+]]></content>
+	
+	<tabTrigger>stagger</tabTrigger>	
+	<scope>source.js</scope>
+</snippet>

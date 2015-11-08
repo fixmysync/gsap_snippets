@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Tween${1:Lite}.${2:to}(${3:element}, ${4:1}, {${5:vars}, ease: ${6:Power3.easeInOut}});
+]]></content>
+	
+	<tabTrigger>Tween</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

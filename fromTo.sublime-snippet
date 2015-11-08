@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.fromTo(${1:element}, ${2:1}, {${4:fromVars}}, {${5:toVars}})
+]]></content>
+	<tabTrigger>fromTo</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

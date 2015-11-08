@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Draggable.create(${1:element}, {type: "${2:drag_type}", ${3:vars}});
+]]></content>
+    
+    <tabTrigger>Draggable</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.set(${1:element}, {${2:vars}})
+]]></content>
+	
+	<tabTrigger>set</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.to(${1:element}, ${2:1}, {${3:vars}, ease: ${4:Power3.easeInOut}})
+]]></content>
+	
+	<tabTrigger>to</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
