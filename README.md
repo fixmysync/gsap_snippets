@@ -5,7 +5,7 @@ Type the snippet shortcode and then press Tab to complete the snippet.
 
 The snippets are listed below in alphabetical order. The '`{$1}`' indicates the initial position of the caret. Some snippets have multiple tab-stops, as indicated by '`${2} ${3} ${4}`' where the number is the order in which you tab through the snippet.
 
-Feel free to play with, alter, expand, or do what you want with these snippets. If you come up with a very useful snippet, or a mistake or simply something that I have missed - Please let me know (via [Twitter](https://twitter.com/mandymadethis), [GitHub](https://github.com/MandyMadeThis) or as a comment on the original [blog post](http://mandymadethis.com/sublime-text-gsap-snippets/)) so that I can improve these for everybody. Thanks!
+Feel free to play with, alter, expand, or do what you want with these snippets. If you come up with a very useful snippet, or a mistake or simply something that I have missed - Please let me know (via [Twitter](https://twitter.com/mandymadethis) or on [GitHub](https://github.com/MandyMadeThis)) so that I can improve these for everybody. Thanks!
 
 *note*: I use `TimelineMax` most of the time and I chain my tweens directly to the timeline.   
 Example:   
